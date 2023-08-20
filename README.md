@@ -20,4 +20,5 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - SASS/CSS
 
 ### SITE LINK
-[VISIT HERE]("https://neitodesu.github.io/Frontend-mentor-nft-card/")
+
+[SITE](https://neitodesu.github.io/Frontend-mentor-nft-card/)
