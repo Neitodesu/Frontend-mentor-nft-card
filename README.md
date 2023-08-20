@@ -11,7 +11,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Screenshot
 
-![Screenshot](/design/Screenshot.png)
+![Screenshot](./design/Screenshot.png)
 
 
 ### Built with
